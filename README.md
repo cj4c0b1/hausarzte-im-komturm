@@ -1,36 +1,96 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hausärzte im Komturm - Website
 
-## Getting Started
+Modern, multilingual website for Hausärzte im Komturm medical practice in Freiburg, Germany.
 
-First, run the development server:
+## 🌐 Live Site
+
+[View Live Site](https://hausarzte-im-komturm.vercel.app) _(will be available after deployment)_
+
+## ✨ Features
+
+- 🌍 **Multilingual Support**: German, English, Portuguese, Spanish
+- 📱 **Responsive Design**: Works on all devices
+- 🎨 **Modern UI**: Clean, professional healthcare design
+- ⚡ **Fast Performance**: Built with Next.js 15
+- 🔍 **SEO Optimized**: Proper meta tags and structure
+
+## 📄 Pages
+
+- **Home**: Practice overview with quick opening hours
+- **Services**: Detailed medical services (General Practice, Internal Medicine, Preventive Care)
+- **Team**: Doctor profiles with photos and specializations
+- **Opening Hours**: Weekly schedule with emergency contact
+- **Online Services**: Prescription renewal and appointment booking info
+- **News**: Current announcements and updates
+- **Contact**: Contact form and location information
+
+## 🛠️ Tech Stack
+
+- **Framework**: Next.js 15.1.6
+- **Language**: TypeScript
+- **Styling**: CSS Variables
+- **Internationalization**: next-intl
+- **Icons**: lucide-react
+- **Animations**: framer-motion
+- **Deployment**: Vercel
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js 18+
+- npm or yarn
+
+### Installation
 
 ```bash
+# Clone the repository
+git clone https://github.com/cj4c0b1/hausarzte-im-komturm.git
+cd hausarzte-im-komturm
+
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to view the site.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📁 Project Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```
+src/
+├── app/[locale]/          # Localized pages
+│   ├── page.tsx          # Home page
+│   ├── services/         # Services page
+│   ├── about/            # Team page
+│   ├── opening-hours/    # Opening hours
+│   ├── online-services/  # Online services
+│   ├── news/             # News & updates
+│   └── contact/          # Contact page
+├── components/           # Reusable components
+├── messages/            # Translation files (de, en, pt, es)
+└── styles/              # Global styles
+```
 
-## Learn More
+## 🌍 Adding Translations
 
-To learn more about Next.js, take a look at the following resources:
+Translation files are located in `src/messages/`:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- `de.json` - German
+- `en.json` - English
+- `pt.json` - Portuguese
+- `es.json` - Spanish
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📝 License
 
-## Deploy on Vercel
+This project is private and proprietary to Hausärzte im Komturm.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📧 Contact
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+For questions about this website, please contact the practice:
+
+- **Address**: Karlsruher Straße 3, 79108 Freiburg
+- **Phone**: 0761 494200
+- **Email**: praxis@hik-freiburg.de
