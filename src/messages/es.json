@@ -17,11 +17,28 @@
     "title": "Nuestros Servicios",
     "general": {
       "title": "Medicina General",
-      "description": "Atención médica integral para toda la familia."
+      "description": "Atención médica integral para toda la familia.",
+      "items": [
+        "Chequeos de Salud",
+        "Detección de Cáncer de Piel",
+        "Vacunaciones",
+        "Diagnósticos de Laboratorio",
+        "Tratamiento de Heridas",
+        "Atención Primaria Psicosomática",
+        "Atención Centrada en el Médico de Familia (HZV)"
+      ]
     },
     "internal": {
       "title": "Medicina Interna",
-      "description": "Diagnóstico y tratamiento especializado de enfermedades internas."
+      "description": "Diagnóstico y tratamiento especializado de enfermedades internas.",
+      "items": [
+        "ECG",
+        "ECG de Larga Duración",
+        "ECG de Esfuerzo",
+        "Monitoreo de Presión Arterial de Larga Duración",
+        "Pruebas de Función Pulmonar",
+        "Ecografía (Abdominal, Pélvica, Tiroides, Cardíaca)"
+      ]
     },
     "preventive": {
       "title": "Medicina Preventiva",

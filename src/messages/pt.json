@@ -17,11 +17,28 @@
     "title": "Nossos Serviços",
     "general": {
       "title": "Clínica Geral",
-      "description": "Atendimento médico abrangente para toda a família."
+      "description": "Atendimento médico abrangente para toda a família.",
+      "items": [
+        "Check-ups de Saúde",
+        "Rastreamento de Câncer de Pele",
+        "Vacinações",
+        "Diagnósticos Laboratoriais",
+        "Tratamento de Feridas",
+        "Cuidados Primários Psicosomáticos",
+        "Cuidados Centrados no Médico de Família (HZV)"
+      ]
     },
     "internal": {
       "title": "Medicina Interna",
-      "description": "Diagnóstico e tratamento especializado de doenças internas."
+      "description": "Diagnóstico e tratamento especializado de doenças internas.",
+      "items": [
+        "ECG",
+        "ECG de Longa Duração",
+        "ECG de Esforço",
+        "Monitoramento de Pressão Arterial de Longa Duração",
+        "Testes de Função Pulmonar",
+        "Ultrassom (Abdominal, Pélvico, Tireóide, Cardíaco)"
+      ]
     },
     "preventive": {
       "title": "Medicina Preventiva",
