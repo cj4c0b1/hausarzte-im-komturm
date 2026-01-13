@@ -1,12 +1,24 @@
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Healthcare Brand Colors */
+  --color-primary: #0066cc; /* Calming Blue - Trust/Healthcare */
+  --color-secondary: #2d3748; /* Slate Grey - Professional */
+  --color-accent: #48bb78; /* Soft Green - Health/Wellness */
+  --color-accent-light: #e6f7f0; /* Light Green - Background accents */
+  
+  --background: #ffffff; /* Pure White */
+  --foreground: #1a202c; /* Dark Slate */
+  
+  --font-heading: var(--font-geist-sans);
+  --font-body: var(--font-geist-sans);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #1a202c; /* Dark Slate */
+    --foreground: #f7fafc;
+    --color-primary: #4299e1; /* Lighter Blue for dark mode */
+    --color-secondary: #a0aec0;
+    --color-accent: #68d391;
   }
 }
 

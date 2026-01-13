@@ -1,0 +1,131 @@
+{
+  "HomePage": {
+    "title": "Hausärzte im Komturm",
+    "subtitle": "Ihre Hausarztpraxis in Freiburg - Moderne Medizin mit Herz",
+    "cta": "Termin vereinbaren"
+  },
+  "Navigation": {
+    "home": "Startseite",
+    "services": "Leistungen",
+    "about": "Unser Team",
+    "contact": "Kontakt",
+    "openingHours": "Sprechzeiten",
+    "onlineServices": "Online Services",
+    "news": "Aktuelles"
+  },
+  "Services": {
+    "title": "Unsere Leistungen",
+    "general": {
+      "title": "Hausärztliche Versorgung",
+      "description": "Umfassende medizinische Betreuung für die ganze Familie.",
+      "items": [
+        "Gesundheitsuntersuchungen (Check-up)",
+        "Hautkrebsscreening",
+        "Impfungen",
+        "Labordiagnostik",
+        "Wundversorgung",
+        "Psychosomatische Grundversorgung",
+        "Hausarztzentrierte Versorgung (HZV)"
+      ]
+    },
+    "internal": {
+      "title": "Innere Medizin",
+      "description": "Spezialisierte Diagnostik und Behandlung internistischer Erkrankungen.",
+      "items": [
+        "EKG",
+        "Langzeit-EKG",
+        "Belastungs-EKG",
+        "Langzeit-Blutdruckmessung",
+        "Lungenfunktionsprüfung",
+        "Ultraschall (Abdomen, Becken, Schilddrüse, Herz)"
+      ]
+    },
+    "preventive": {
+      "title": "Vorsorgeuntersuchungen",
+      "description": "Gesundheits-Check-ups und Präventionsmedizin."
+    }
+  },
+  "Contact": {
+    "title": "Kontakt",
+    "name": "Name",
+    "email": "E-Mail",
+    "message": "Nachricht",
+    "submit": "Nachricht senden",
+    "address": "Karlsruher Straße 3, 79108 Freiburg",
+    "phone": "Telefon"
+  },
+  "Team": {
+    "title": "Unser Ärzteteam",
+    "rieckmann": {
+      "name": "Dr. med. Till Rieckmann",
+      "title": "Facharzt für Innere Medizin, Internistische Intensivmedizin"
+    },
+    "meiser": {
+      "name": "Dr. med. Frederik Meiser",
+      "title": "Facharzt für Innere Medizin, Notfallmedizin, Internistische Intensivmedizin, Tauchmedizinische Untersuchung GETÜM"
+    },
+    "gentzsch": {
+      "name": "Sabrina Gentzsch",
+      "title": "Fachärztin für Innere Medizin"
+    },
+    "adolf": {
+      "name": "Dr. med. Andreas Adolf",
+      "title": "Facharzt für Innere Medizin"
+    },
+    "knoll": {
+      "name": "Eva Knoll",
+      "title": "Fachärztin für Innere Medizin (Vertretung für Dr. Langner bis Dez. 2025)"
+    }
+  },
+  "OpeningHours": {
+    "title": "Sprechzeiten",
+    "subtitle": "Unsere Öffnungszeiten",
+    "monday": "Montag",
+    "tuesday": "Dienstag",
+    "wednesday": "Mittwoch",
+    "thursday": "Donnerstag",
+    "friday": "Freitag",
+    "saturday": "Samstag",
+    "sunday": "Sonntag",
+    "morning": "Vormittag",
+    "afternoon": "Nachmittag",
+    "closed": "Geschlossen",
+    "emergency": "Notfallkontakt",
+    "emergencyText": "Außerhalb der Sprechzeiten wenden Sie sich bitte an den ärztlichen Notdienst der Uniklinik Freiburg.",
+    "emergencyPhone": "Tel: 0761 270-0"
+  },
+  "OnlineServices": {
+    "title": "Online Services",
+    "prescription": {
+      "title": "Rezeptbestellung",
+      "description": "Bestehende Patienten können Rezepte telefonisch oder per E-Mail vorbestellen.",
+      "email": "E-Mail: praxis@hik-freiburg.de",
+      "phone": "Tel: 0761 494200"
+    },
+    "booking": {
+      "title": "Online-Terminbuchung",
+      "description": "Unser Online-Buchungssystem wird derzeit aktualisiert und steht in Kürze wieder zur Verfügung."
+    }
+  },
+  "News": {
+    "title": "Aktuelles",
+    "noNews": "Derzeit keine besonderen Ankündigungen.",
+    "items": [
+      {
+        "title": "Über die Festtage haben wir geänderte Öffnungszeiten",
+        "date": "Dezember 2025",
+        "content": "22.12.2025: 8:00–13:00 Uhr\n23.12.2025: 8:00–13:00 Uhr\n24.12.2025: geschlossen\n25.12.2025: geschlossen\n26.12.2025: geschlossen\n29.12.2025: 8:00–13:00 Uhr\n30.12.2025: 8:00–13:00 Uhr\n31.12.2025: geschlossen\n01.01.2026: geschlossen\n02.01.2026: geschlossen\n05.01.2026: geschlossen\n06.01.2026: geschlossen\n\nAb dem 07.01.2026 sind wir wieder wie gewohnt für Sie da!\n\nIn dringenden Notfällen wenden Sie sich bitte an die Notfallpraxis Uniklinik Freiburg in der Sir-Hans-A.-Krebs-Straße 3, 79106 Freiburg."
+      },
+      {
+        "title": "Wichtige Information für Sie",
+        "date": "April 2025",
+        "content": "Wir möchten Sie darüber informieren, dass Herr Dr. Langner unsere Hausarztpraxis aus privaten Gründen zum Ende des Jahres verlassen wird. Bereits ab Mai wird er nicht mehr zur Verfügung stehen. Gleichzeitig freuen wir uns Ihnen mitteilen zu können, dass Frau Knoll ab Mai die ärztliche Betreuung in unserer Praxis übernehmen wird. Frau Knoll bringt viel Erfahrung in der hausärztlichen Versorgung mit und wird unser Team mit großem Engagement und Fachkompetenz verstärken. Selbstverständlich können Sie auch weiterhin bei allen Ärztinnen und Ärzten unserer Praxis wie gewohnt Termine vereinbaren. Wie immer sind wir mit unserem gesamten Team für Sie da."
+      },
+      {
+        "title": "Rezepte ab sofort als e-Rezepte",
+        "date": "August 2024",
+        "content": "Ab dem 1. Januar 2024 sind alle Arztpraxen verpflichtet, Rezepte als e-Rezepte zu verordnen. Dies bedeutet, dass sie in Zukunft keine Papierrezepte mehr bekommen. Das e-Rezept wird nicht auf ihrer Versichertenkarte gespeichert, sondern auf einem speziell gesicherten Server. Mit ihrer Versichertenkarte können die Apotheken dieses Rezept abrufen und Ihnen das Medikament herausgeben.\n\nBitte beachten Sie: Bevor wir ihnen ein e-Rezept ausstellen können, ist es notwendig, zunächst ihre Versichertenkarte bei uns in der Praxis einlesen zu lassen. Erst dann können wir Ihnen ein e-Rezept ausstellen. Leider kann es zwischen dem Ausstellen des Rezeptes und dem Einlösen in der Apotheke zu einer zeitlichen Verzögerung kommen, so dass sie einplanen sollten, dass das e-Rezept erst am Folgetag in der Apotheke einlösbar ist."
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "HomePage": {
+    "title": "Hausärzte im Komturm",
+    "subtitle": "Seu Consultório Médico em Freiburg - Medicina Moderna com Coração",
+    "cta": "Agendar Consulta"
+  },
+  "Navigation": {
+    "home": "Início",
+    "services": "Serviços",
+    "about": "Nossa Equipe",
+    "contact": "Contato",
+    "openingHours": "Horários",
+    "onlineServices": "Serviços Online",
+    "news": "Notícias"
+  },
+  "Services": {
+    "title": "Nossos Serviços",
+    "general": {
+      "title": "Clínica Geral",
+      "description": "Atendimento médico abrangente para toda a família."
+    },
+    "internal": {
+      "title": "Medicina Interna",
+      "description": "Diagnóstico e tratamento especializado de doenças internas."
+    },
+    "preventive": {
+      "title": "Medicina Preventiva",
+      "description": "Check-ups de saúde e medicina preventiva."
+    }
+  },
+  "Contact": {
+    "title": "Contato",
+    "name": "Nome",
+    "email": "E-mail",
+    "message": "Mensagem",
+    "submit": "Enviar Mensagem",
+    "address": "Karlsruher Straße 3, 79108 Freiburg",
+    "phone": "Telefone"
+  },
+  "Team": {
+    "title": "Nossa Equipe Médica",
+    "rieckmann": {
+      "name": "Dr. med. Till Rieckmann",
+      "title": "Especialista em Medicina Interna, Medicina Intensiva Interna"
+    },
+    "meiser": {
+      "name": "Dr. med. Frederik Meiser",
+      "title": "Especialista em Medicina Interna, Medicina de Emergência, Medicina Intensiva Interna, Exame Médico de Mergulho GETÜM"
+    },
+    "gentzsch": {
+      "name": "Sabrina Gentzsch",
+      "title": "Especialista em Medicina Interna"
+    },
+    "adolf": {
+      "name": "Dr. med. Andreas Adolf",
+      "title": "Especialista em Medicina Interna"
+    },
+    "knoll": {
+      "name": "Eva Knoll",
+      "title": "Especialista em Medicina Interna (Substituta da Dra. Langner até Dez. 2025)"
+    }
+  },
+  "OpeningHours": {
+    "title": "Horários de Atendimento",
+    "subtitle": "Nossos Horários",
+    "monday": "Segunda-feira",
+    "tuesday": "Terça-feira",
+    "wednesday": "Quarta-feira",
+    "thursday": "Quinta-feira",
+    "friday": "Sexta-feira",
+    "saturday": "Sábado",
+    "sunday": "Domingo",
+    "morning": "Manhã",
+    "afternoon": "Tarde",
+    "closed": "Fechado",
+    "emergency": "Contato de Emergência",
+    "emergencyText": "Fora do horário de atendimento, entre em contato com o serviço médico de emergência do Hospital Universitário de Freiburg.",
+    "emergencyPhone": "Tel: 0761 270-0"
+  },
+  "OnlineServices": {
+    "title": "Serviços Online",
+    "prescription": {
+      "title": "Renovação de Receitas",
+      "description": "Pacientes existentes podem solicitar receitas por telefone ou e-mail.",
+      "email": "E-mail: praxis@hik-freiburg.de",
+      "phone": "Tel: 0761 494200"
+    },
+    "booking": {
+      "title": "Agendamento Online",
+      "description": "Nosso sistema de agendamento online está sendo atualizado e estará disponível em breve."
+    }
+  },
+  "News": {
+    "title": "Notícias",
+    "noNews": "Nenhum anúncio especial no momento.",
+    "items": [
+      {
+        "title": "Horários Modificados Durante as Festas",
+        "date": "Dezembro 2025",
+        "content": "22.12.2025: 8:00–13:00\n23.12.2025: 8:00–13:00\n24.12.2025: fechado\n25.12.2025: fechado\n26.12.2025: fechado\n29.12.2025: 8:00–13:00\n30.12.2025: 8:00–13:00\n31.12.2025: fechado\n01.01.2026: fechado\n02.01.2026: fechado\n05.01.2026: fechado\n06.01.2026: fechado\n\nA partir de 07.01.2026 estaremos de volta ao horário normal!\n\nEm emergências urgentes, entre em contato com o serviço de emergência do Hospital Universitário de Freiburg na Sir-Hans-A.-Krebs-Straße 3, 79106 Freiburg."
+      },
+      {
+        "title": "Informação Importante",
+        "date": "Abril 2025",
+        "content": "Gostaríamos de informá-lo que o Dr. Langner deixará nossa prática no final do ano por motivos pessoais. Ele não estará mais disponível a partir de maio. Ao mesmo tempo, temos o prazer de anunciar que a Sra. Knoll assumirá os cuidados médicos em nossa prática a partir de maio. A Sra. Knoll traz vasta experiência em medicina geral e fortalecerá nossa equipe com grande compromisso e expertise. É claro que você pode continuar marcando consultas com todos os médicos de nossa prática como de costume. Como sempre, estamos aqui para você com toda a nossa equipe."
+      },
+      {
+        "title": "Receitas Agora como e-Receitas",
+        "date": "Agosto 2024",
+        "content": "A partir de 1º de janeiro de 2024, todas as práticas médicas são obrigadas a emitir receitas como e-receitas. Isso significa que você não receberá mais receitas em papel. A e-receita não é armazenada no seu cartão de seguro, mas em um servidor especialmente protegido. As farmácias podem recuperar esta receita com seu cartão de seguro e dispensar o medicamento para você.\n\nObservação: Antes de podermos emitir uma e-receita para você, é necessário primeiro ler seu cartão de seguro em nossa prática. Só então podemos emitir uma e-receita. Infelizmente, pode haver um atraso entre a emissão da receita e o resgate na farmácia, portanto você deve planejar que a e-receita estará disponível na farmácia no dia seguinte."
+      }
+    ]
+  }
+}

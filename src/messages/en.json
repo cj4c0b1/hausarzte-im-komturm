@@ -1,0 +1,131 @@
+{
+  "HomePage": {
+    "title": "Hausärzte im Komturm",
+    "subtitle": "Your Family Doctors in Freiburg - Modern Medicine with Heart",
+    "cta": "Book Appointment"
+  },
+  "Navigation": {
+    "home": "Home",
+    "services": "Services",
+    "about": "Our Team",
+    "contact": "Contact",
+    "openingHours": "Opening Hours",
+    "onlineServices": "Online Services",
+    "news": "News"
+  },
+  "Services": {
+    "title": "Our Services",
+    "general": {
+      "title": "General Practice",
+      "description": "Comprehensive medical care for the whole family.",
+      "items": [
+        "Health Check-ups",
+        "Skin Cancer Screening",
+        "Vaccinations",
+        "Laboratory Diagnostics",
+        "Wound Care",
+        "Psychosomatic Primary Care",
+        "Family Doctor-Centered Care (HZV)"
+      ]
+    },
+    "internal": {
+      "title": "Internal Medicine",
+      "description": "Specialized diagnostics and treatment of internal diseases.",
+      "items": [
+        "ECG",
+        "Long-term ECG",
+        "Stress ECG",
+        "Long-term Blood Pressure Monitoring",
+        "Pulmonary Function Tests",
+        "Ultrasound (Abdominal, Pelvic, Thyroid, Cardiac)"
+      ]
+    },
+    "preventive": {
+      "title": "Preventive Care",
+      "description": "Health check-ups and preventive medicine."
+    }
+  },
+  "Contact": {
+    "title": "Contact",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Send Message",
+    "address": "Karlsruher Straße 3, 79108 Freiburg",
+    "phone": "Phone"
+  },
+  "Team": {
+    "title": "Our Medical Team",
+    "rieckmann": {
+      "name": "Dr. med. Till Rieckmann",
+      "title": "Specialist in Internal Medicine, Internal Intensive Care Medicine"
+    },
+    "meiser": {
+      "name": "Dr. med. Frederik Meiser",
+      "title": "Specialist in Internal Medicine, Emergency Medicine, Internal Intensive Care Medicine, Diving Medical Examination GETÜM"
+    },
+    "gentzsch": {
+      "name": "Sabrina Gentzsch",
+      "title": "Specialist in Internal Medicine"
+    },
+    "adolf": {
+      "name": "Dr. med. Andreas Adolf",
+      "title": "Specialist in Internal Medicine"
+    },
+    "knoll": {
+      "name": "Eva Knoll",
+      "title": "Specialist in Internal Medicine (Substitute for Dr. Langner until Dec. 2025)"
+    }
+  },
+  "OpeningHours": {
+    "title": "Opening Hours",
+    "subtitle": "Our Office Hours",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "morning": "Morning",
+    "afternoon": "Afternoon",
+    "closed": "Closed",
+    "emergency": "Emergency Contact",
+    "emergencyText": "Outside office hours, please contact the medical emergency service at University Hospital Freiburg.",
+    "emergencyPhone": "Phone: 0761 270-0"
+  },
+  "OnlineServices": {
+    "title": "Online Services",
+    "prescription": {
+      "title": "Prescription Renewal",
+      "description": "Existing patients can pre-order prescriptions by phone or email.",
+      "email": "Email: praxis@hik-freiburg.de",
+      "phone": "Phone: 0761 494200"
+    },
+    "booking": {
+      "title": "Online Appointment Booking",
+      "description": "Our online booking system is currently being updated and will be available again soon."
+    }
+  },
+  "News": {
+    "title": "News",
+    "noNews": "No special announcements at this time.",
+    "items": [
+      {
+        "title": "Modified Opening Hours During the Holidays",
+        "date": "December 2025",
+        "content": "22.12.2025: 8:00–13:00\n23.12.2025: 8:00–13:00\n24.12.2025: closed\n25.12.2025: closed\n26.12.2025: closed\n29.12.2025: 8:00–13:00\n30.12.2025: 8:00–13:00\n31.12.2025: closed\n01.01.2026: closed\n02.01.2026: closed\n05.01.2026: closed\n06.01.2026: closed\n\nFrom 07.01.2026 we will be back to our regular schedule!\n\nIn urgent emergencies, please contact the emergency practice at University Hospital Freiburg at Sir-Hans-A.-Krebs-Straße 3, 79106 Freiburg."
+      },
+      {
+        "title": "Important Information",
+        "date": "April 2025",
+        "content": "We would like to inform you that Dr. Langner will be leaving our practice at the end of the year for personal reasons. He will no longer be available from May onwards. At the same time, we are pleased to announce that Ms. Knoll will be taking over medical care at our practice from May. Ms. Knoll brings extensive experience in general practice and will strengthen our team with great commitment and expertise. Of course, you can continue to make appointments with all doctors at our practice as usual. As always, we are here for you with our entire team."
+      },
+      {
+        "title": "Prescriptions Now as e-Prescriptions",
+        "date": "August 2024",
+        "content": "From January 1, 2024, all medical practices are required to issue prescriptions as e-prescriptions. This means you will no longer receive paper prescriptions. The e-prescription is not stored on your insurance card, but on a specially secured server. Pharmacies can retrieve this prescription with your insurance card and dispense the medication to you.\n\nPlease note: Before we can issue you an e-prescription, it is necessary to first have your insurance card read at our practice. Only then can we issue you an e-prescription. Unfortunately, there may be a time delay between issuing the prescription and redeeming it at the pharmacy, so you should plan for the e-prescription to be redeemable at the pharmacy the following day."
+      }
+    ]
+  }
+}
