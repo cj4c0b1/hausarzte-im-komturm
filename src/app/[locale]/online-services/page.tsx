@@ -20,11 +20,11 @@ export default function OnlineServicesPage() {
           <div style={{display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '2rem'}}>
             {/* Prescription Renewal */}
             <div style={{
-              backgroundColor: 'white',
+              backgroundColor: 'var(--card-bg)',
               padding: '2rem',
               borderRadius: '0.5rem',
               boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1)',
-              border: '1px solid #e1e4e8'
+              border: '1px solid var(--border-color)'
             }}>
               <div style={{
                 width: '60px',
@@ -67,11 +67,11 @@ export default function OnlineServicesPage() {
 
             {/* Online Booking */}
             <div style={{
-              backgroundColor: 'white',
+              backgroundColor: 'var(--card-bg)',
               padding: '2rem',
               borderRadius: '0.5rem',
               boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1)',
-              border: '1px solid #e1e4e8'
+              border: '1px solid var(--border-color)'
             }}>
               <div style={{
                 width: '60px',
