@@ -32,13 +32,13 @@ export default function Home() {
             maxWidth: '800px',
             margin: '0 auto 2rem'
           }}>
-            <div style={{padding: '1rem', backgroundColor: 'white', borderRadius: '0.5rem'}}>
+            <div style={{padding: '1rem', backgroundColor: 'var(--background)', borderRadius: '0.5rem'}}>
               <strong>{tHours('monday')} - {tHours('thursday')}</strong><br/>
-              08:00 – 13:00
+              08:00 - 13:00 & 14:00 - 17:00*
             </div>
-            <div style={{padding: '1rem', backgroundColor: 'white', borderRadius: '0.5rem'}}>
+            <div style={{padding: '1rem', backgroundColor: 'var(--background)', borderRadius: '0.5rem'}}>
               <strong>{tHours('friday')}</strong><br/>
-              08:00 – 12:00
+              08:00 - 12:00
             </div>
           </div>
           <Link href="/opening-hours" style={{

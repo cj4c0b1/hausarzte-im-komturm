@@ -25,11 +25,11 @@ export default function NewsPage() {
             <div style={{display: 'flex', flexDirection: 'column', gap: '2rem'}}>
               {newsItems.map((item: any, index: number) => (
                 <article key={index} style={{
-                  backgroundColor: 'white',
+                  backgroundColor: 'var(--card-bg)',
                   padding: '2rem',
                   borderRadius: '0.5rem',
                   boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1)',
-                  border: '1px solid #e1e4e8'
+                  border: '1px solid var(--border-color)'
                 }}>
                   <div style={{
                     display: 'flex',
@@ -62,11 +62,11 @@ export default function NewsPage() {
             </div>
           ) : (
             <div style={{
-              backgroundColor: 'white',
+              backgroundColor: 'var(--card-bg)',
               padding: '3rem',
               borderRadius: '0.5rem',
               boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1)',
-              border: '1px solid #e1e4e8',
+              border: '1px solid var(--border-color)',
               textAlign: 'center'
             }}>
               <p style={{color: 'var(--color-secondary)', fontSize: '1.1rem'}}>

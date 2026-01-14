@@ -56,18 +56,18 @@ export default function AboutPage() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.5, delay: index * 0.1 }}
                 style={{
-                  backgroundColor: 'white',
+                  backgroundColor: 'var(--card-bg)',
                   borderRadius: '0.5rem',
                   overflow: 'hidden',
                   boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1)',
-                  border: '1px solid #e1e4e8'
+                  border: '1px solid var(--border-color)'
                 }}
               >
                 <div style={{
                   width: '100%',
                   height: '300px',
                   overflow: 'hidden',
-                  backgroundColor: '#f7fafc'
+                  backgroundColor: 'var(--muted-bg)'
                 }}>
                   <img 
                     src={doctor.image} 

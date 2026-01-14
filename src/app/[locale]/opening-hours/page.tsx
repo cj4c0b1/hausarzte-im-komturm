@@ -34,11 +34,11 @@ export default function OpeningHoursPage() {
           </div>
 
           <div style={{
-            backgroundColor: 'white',
+            backgroundColor: 'var(--card-bg)',
             borderRadius: '0.5rem',
             overflow: 'hidden',
             boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1)',
-            border: '1px solid #e1e4e8'
+            border: '1px solid var(--border-color)'
           }}>
             <table style={{width: '100%', borderCollapse: 'collapse'}}>
               <thead>
@@ -57,8 +57,8 @@ export default function OpeningHoursPage() {
               <tbody>
                 {schedule.map((item, index) => (
                   <tr key={item.day} style={{
-                    borderBottom: index < schedule.length - 1 ? '1px solid #e1e4e8' : 'none',
-                    backgroundColor: index % 2 === 0 ? 'white' : '#f7fafc'
+                    borderBottom: index < schedule.length - 1 ? '1px solid var(--border-color)' : 'none',
+                    backgroundColor: index % 2 === 0 ? 'var(--card-bg)' : 'var(--muted-bg)'
                   }}>
                     <td style={{padding: '1rem', fontWeight: '600', color: 'var(--color-secondary)'}}>
                       {t(item.day)}

@@ -11,11 +11,11 @@ export default function ServiceCard({ title, description, icon }: ServiceCardPro
     <motion.div 
       whileHover={{ y: -5 }}
       style={{
-        backgroundColor: 'white',
+        backgroundColor: 'var(--card-bg)',
         padding: '2rem',
         borderRadius: '0.5rem',
         boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1)',
-        border: '1px solid #e1e4e8',
+        border: '1px solid var(--border-color)',
         flex: '1 1 300px',
         maxWidth: '350px'
       }}

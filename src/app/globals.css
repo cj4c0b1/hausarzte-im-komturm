@@ -8,6 +8,10 @@
   --background: #ffffff; /* Pure White */
   --foreground: #1a202c; /* Dark Slate */
   
+  --card-bg: #ffffff;
+  --muted-bg: #f7fafc;
+  --border-color: #e1e4e8;
+  
   --font-heading: var(--font-geist-sans);
   --font-body: var(--font-geist-sans);
 }
@@ -19,6 +23,11 @@
     --color-primary: #4299e1; /* Lighter Blue for dark mode */
     --color-secondary: #a0aec0;
     --color-accent: #68d391;
+    --color-accent-light: #2d3748;
+    
+    --card-bg: #2d3748;
+    --muted-bg: #1a202c;
+    --border-color: #4a5568;
   }
 }
 

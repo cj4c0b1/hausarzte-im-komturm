@@ -15,7 +15,7 @@ export default function Hero() {
       alignItems: 'center',
       height: '80vh',
       textAlign: 'center',
-      background: 'linear-gradient(135deg, var(--background) 0%, #e2e8f0 100%)',
+      background: 'linear-gradient(135deg, var(--background) 0%, var(--muted-bg) 100%)',
       padding: '2rem'
     }}>
       <motion.h1 

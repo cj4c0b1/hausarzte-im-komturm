@@ -116,13 +116,13 @@ export default function ServicesPage() {
 
             {/* Preventive Care */}
             <div style={{
-              backgroundColor: 'white',
-              borderRadius: '0.5rem',
-              padding: '2rem',
-              boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1)',
-              border: '1px solid #e1e4e8'
-            }}>
-              <div style={{display: 'flex', alignItems: 'center', gap: '1rem'}}>
+            backgroundColor: 'var(--card-bg)',
+            padding: '2.5rem',
+            borderRadius: '0.5rem',
+            boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1)',
+            border: '1px solid var(--border-color)',
+            marginBottom: '3rem'
+          }}>    <div style={{display: 'flex', alignItems: 'center', gap: '1rem'}}>
                 <Activity size={40} color="var(--color-primary)" />
                 <div>
                   <h2 style={{fontSize: '1.75rem', color: 'var(--color-primary)', marginBottom: '0.5rem'}}>
